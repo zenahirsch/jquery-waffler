@@ -1,0 +1,743 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"are",
+				"arePossibleValues"
+			],
+			[
+				"possible",
+				"possibleValues"
+			],
+			[
+				"undefine",
+				"undefinedValues"
+			],
+			[
+				"undefin",
+				"undefinedValues"
+			],
+			[
+				"assigned_user",
+				"assigned_user_id"
+			],
+			[
+				"filter",
+				"filterType"
+			],
+			[
+				"startDate",
+				"startDateRange"
+			],
+			[
+				"currentWeek",
+				"currentWeekStartDisplay"
+			],
+			[
+				"bits_per",
+				"bits_per_pixel_display"
+			],
+			[
+				"bits",
+				"bits_per_sample"
+			],
+			[
+				"chroma",
+				"chroma_width_display"
+			],
+			[
+				"total",
+				"total_bits"
+			],
+			[
+				"cal",
+				"calculateChromaResolution"
+			],
+			[
+				"ca",
+				"calculateChromaResolution"
+			],
+			[
+				"luma",
+				"luma_width"
+			],
+			[
+				"format",
+				"format_input"
+			],
+			[
+				"yc",
+				"ycrcb_preview"
+			],
+			[
+				"c",
+				"cb"
+			],
+			[
+				"y",
+				"y_input"
+			],
+			[
+				"cr",
+				"cr_input"
+			],
+			[
+				"cb",
+				"cb_input"
+			],
+			[
+				"bl",
+				"blue_input"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"do",
+				"doRGBCalculation"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "demo.html",
+			"settings":
+			{
+				"buffer_size": 881,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "jquery.waffler.js",
+			"settings":
+			{
+				"buffer_size": 1597,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "waffler.css",
+			"settings":
+			{
+				"buffer_size": 758,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zenahirsch/Documents/Projects/elevator-simulator/js/main.js",
+		"/Users/zenahirsch/Documents/Projects/elevator-simulator/js/classes/elevator.js",
+		"/Users/zenahirsch/Documents/Projects/CDA/js/classes/tracker.js",
+		"/Users/zenahirsch/Documents/Projects/CDA/js/main.js",
+		"/Users/zenahirsch/Documents/Projects/CDA/bugs.html",
+		"/Users/zenahirsch/Documents/Projects/elevator-simulator/index.html",
+		"/Users/zenahirsch/Documents/Projects/adv-javascript/mashup/app_id.txt",
+		"/Users/zenahirsch/Documents/Projects/adv-javascript/mashup/index.html",
+		"/Users/zenahirsch/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/zenahirsch/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/zenahirsch/Documents/Projects/adv-javascript/deck/demos/ajax/simple/index.html",
+		"/Users/zenahirsch/Documents/Projects/adv-javascript/deck/index.html",
+		"/Users/zenahirsch/Documents/Projects/adv-javascript/oop/js/super_hero.js",
+		"/Users/zenahirsch/Documents/Projects/adv-javascript/oop/index.html",
+		"/Users/zenahirsch/Documents/Projects/adv-javascript/oop/js/magic_hero.js",
+		"/Users/zenahirsch/Documents/Projects/adv-javascript/oop/js/alien_hero.js",
+		"/Users/zenahirsch/Documents/Projects/adv-javascript/oop/js/tests.js",
+		"/Users/zenahirsch/Documents/Projects/elevator-simulator/js/classes/entity.js",
+		"/Users/zenahirsch/Documents/vimeo/vendor/paypal/merchant-sdk-php/lib/PayPal/PayPalAPI/BillAgreementUpdateReq.php",
+		"/Users/zenahirsch/Documents/vimeo/tests_api/api3/ApiGroupsTest.php",
+		"/Users/zenahirsch/Documents/vimeo/routes/api.php",
+		"/Users/zenahirsch/Documents/vimeo/objects_v6/cla/object.cla.agreement.php",
+		"/Users/zenahirsch/Documents/vimeo/vendor/phpunit/phpunit/src/Framework/Constraint/ClassHasAttribute.php",
+		"/Users/zenahirsch/Documents/vimeo/src/Vimeo/Cli/CliApplication.php",
+		"/Users/zenahirsch/Documents/vimeo/scripts/calculate_logs_missing.php",
+		"/Users/zenahirsch/Documents/vimeo/cleo",
+		"/Users/zenahirsch/Documents/vimeo/vendor/paypal/merchant-sdk-php/samples/BillingAgreements/GetBillingAgreementCustomerDetails.php",
+		"/Users/zenahirsch/Documents/vimeo/controllers_v6/controller.about.php",
+		"/Users/zenahirsch/Documents/vimeo/grunt/concat.js",
+		"/Users/zenahirsch/Documents/vimeo/scripts/file_mover/clean_old_ephemeral_files.sh",
+		"/Users/zenahirsch/Documents/vimeo/source_maps/vimeo/controllers/messages/thread/messages_thread_controller.min.js",
+		"/Users/zenahirsch/Documents/vimeo/controllers_v6/api/resources/ondemand/genre/controller.api.resources.ondemand.genre.pages.php",
+		"/Users/zenahirsch/Documents/vimeo/source_maps/vimeo/controllers/forager/forager_user.min.js",
+		"/Users/zenahirsch/Documents/vimeo/controllers_v6/api/resources/ondemand/controller.api.resources.ondemand.genres.php",
+		"/Users/zenahirsch/Documents/vimeo/controllers_v6/controller.arrange.php",
+		"/Users/zenahirsch/Documents/vimeo/controllers_v6/api/resources/controller.api.resources.groups.php",
+		"/Users/zenahirsch/Documents/vimeo/controllers_v6/controller.pagination.php",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/appletv/view.appletv.element_grid.phtml",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/about/view.about.brand_guidelines.phtml",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/ad/view.ad.google_afc.phtml",
+		"/Users/zenahirsch/Documents/vimeo/views_fir/ondemand/view.ondemand.film.fir",
+		"/Users/zenahirsch/Documents/vimeo/scripts/vindicia_end.php",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/appletv/view.appletv.more_info.phtml",
+		"/Users/zenahirsch/Documents/vimeo/tests/routes/v6.php",
+		"/Users/zenahirsch/Documents/vimeo/routes/developer.php",
+		"/Users/zenahirsch/Documents/vimeo/scripts/submit_sitemaps.php",
+		"/Users/zenahirsch/Documents/vimeo/scripts/purgatory/send_users_to_purgatory.php",
+		"/Users/zenahirsch/Documents/vimeo/build_scripts/pre-commit/symlink",
+		"/Users/zenahirsch/Documents/Projects/desk-to-es/desk-mover.js",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/developer/app/view.developer.app.form.phtml",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/developer/cla/view.developer.cla.agreement.phtml",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/developer/cla/view.developer.cla.submissions.phtml",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/awards/view.awards.categories_detail.phtml",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/appletv/view.appletv.element_dialog.phtml",
+		"/Users/zenahirsch/Documents/vimeo/objects_v6/cla/object.cla.submission.php",
+		"/Users/zenahirsch/Documents/vimeo/controllers_v6/controller.developer.php",
+		"/Users/zenahirsch/Documents/vimeo/controllers_v6/developer/controller.developer.cla.php",
+		"/Users/zenahirsch/Documents/vimeo/controllers_v6/modworldv6/controller.modworldv6.cla.php",
+		"/Users/zenahirsch/Documents/vimeo/definitions/cla/definition.cla.agreement.php",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/modworldv6/view.modworldv6.busker.phtml",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/modworldv6/view.modworldv6.dmca_search.phtml",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/modworldv6/cla/view.modworldv6.cla.submission.phtml",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/browse/view.browse.clip_more_details.phtml",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/channel/view.channel.settings_mod.phtml",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/awards/view.awards.app_main.phtml",
+		"/Users/zenahirsch/Documents/vimeo/install.sh",
+		"/Users/zenahirsch/Documents/vimeo/web/assets/styles/sass/image_editor.scss",
+		"/Users/zenahirsch/Documents/vimeo/base/hoodahoop.base.application.php",
+		"/Users/zenahirsch/Documents/vimeo/definitions/definition.activity.php",
+		"/Users/zenahirsch/Documents/vimeo/scripts/debug_empty_forums_bug.php",
+		"/Users/zenahirsch/Documents/vimeo/web/assets/styles/sass/_includes/bourbon/helpers/_deprecated-webkit-gradient.scss",
+		"/Users/zenahirsch/Documents/vimeo/source_maps/vimeo/classes/ui/filter_panel/base_filter_panel.min.js",
+		"/Users/zenahirsch/Documents/vimeo/source_maps/vimeo/classes/stats/base_data.min.js",
+		"/Users/zenahirsch/Documents/vimeo/src/V6/Vimeo/Core/BaseConfig.php",
+		"/Users/zenahirsch/Documents/vimeo/scripts/backfill_subscription_id.php",
+		"/Users/zenahirsch/Documents/vimeo/scripts/vod/backfill_clip_access.php",
+		"/Users/zenahirsch/Documents/vimeo/build_vagrant_box.sh",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/email/view.email.creatorservices_summary.phtml",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/about/view.about.yearendlist_staff.phtml",
+		"/Users/zenahirsch/Documents/vimeo/objects_v6/object.activity.php",
+		"/Users/zenahirsch/Documents/vimeo/source_maps/vimeo/controllers/modworld/ondemand_bundles.min.js",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/developer/view.developer.api_simple.phtml",
+		"/Users/zenahirsch/Documents/vimeo/source_maps/modworld_combined.min.js",
+		"/Users/zenahirsch/Documents/vimeo/vendor/paypal/sdk-core-php/lib/PayPal/Auth/Oauth/MockOAuthDataStore.php",
+		"/Users/zenahirsch/Documents/vimeo/web_player/assets/css/ming_overlays.css",
+		"/Users/zenahirsch/Documents/vimeo/routes/main.php",
+		"/Users/zenahirsch/Documents/vimeo/controllers_v6/controller.user.php",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/modworldv6/cla/view.modworldv6.cla.submissions_search_forms.phtml",
+		"/Users/zenahirsch/Documents/vimeo/controllers_v6/developer/controller.developer.docs.php",
+		"/Users/zenahirsch/Documents/vimeo/controllers_v6/developer/controller.developer.advancedapi.php",
+		"/Users/zenahirsch/Documents/vimeo/controllers_v6/controller.couchmode.php",
+		"/Users/zenahirsch/Documents/vimeo/controllers_v6/controller.search.php",
+		"/Users/zenahirsch/Documents/vimeo/controllers_v6/controller.subscription.php",
+		"/Users/zenahirsch/Documents/vimeo/controllers_v6/api/resources/user/controller.api.resources.user.albums.php",
+		"/Users/zenahirsch/Documents/vimeo/source_maps/vimeo/controllers/forms/double_submit_protector.min.js",
+		"/Users/zenahirsch/Documents/vimeo/source_maps/vimeo/controllers/effects/thumbnail_selector.min.js",
+		"/Users/zenahirsch/Documents/vimeo/controllers_v6/api/resources/user/album/controller.api.resources.user.album.videos.php",
+		"/Users/zenahirsch/Documents/vimeo/vendor/paypal/merchant-sdk-php/samples/PaymentSettlements/DoVoid.php",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/awards/view.awards.submit_sidebar.phtml",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/awards/view.awards.submit.phtml",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/email/view.email.channel_add_subscriber.phtml",
+		"/Users/zenahirsch/Documents/vimeo/controllers_v6/controller.clip.php",
+		"/Users/zenahirsch/Documents/vimeo/src/Vimeo/Cli/Command/QueueControllerCommand.php",
+		"/Users/zenahirsch/Documents/vimeo/objects_v6/object.subscription.php",
+		"/Users/zenahirsch/Documents/vimeo/vendor/phpunit/phpunit/src/Framework/Comparator/SplObjectStorage.php",
+		"/Users/zenahirsch/Documents/vimeo/controllers_v6/controller.upload.php",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/modworldv6/view.modworldv6.dmca_claims.phtml",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/modworldv6/view.modworldv6.desk_case_list.phtml",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/modworldv6/cla/view.modworldv6.cla.agreement.phtml",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/modworldv6/cla/view.modworldv6.cla.agreements.phtml",
+		"/Users/zenahirsch/Documents/vimeo/objects_v6/object.category.php",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/modworldv6/view.modworldv6.mass_grave.phtml",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/modworldv6/view.modworldv6.api_apps.phtml",
+		"/Users/zenahirsch/Documents/vimeo/controllers_v6/controller.modworldv6.php",
+		"/Users/zenahirsch/Documents/vimeo/controllers_v6/controller.mobile.php",
+		"/Users/zenahirsch/Documents/vimeo/controllers_v6/controller.marketing.php",
+		"/Users/zenahirsch/Documents/vimeo/objects_v6/object.clip.php",
+		"/Users/zenahirsch/Documents/vimeo/controllers_v6/controller.desk.php",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/developer/api3/view.developer.api3.authentication.phtml",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/developer/advancedapi/view.developer.advancedapi.upload.phtml",
+		"/Users/zenahirsch/Documents/vimeo/views_v6/developer/advancedapi/view.developer.advancedapi.method_list.phtml",
+		"/Users/zenahirsch/Documents/vimeo/web/assets/styles/sass/developer.scss",
+		"/Users/zenahirsch/Documents/Projects/sudoku/sudoku.js",
+		"/Users/zenahirsch/Documents/Projects/github-to-es/github-mover.py",
+		"/Users/zenahirsch/Documents/Projects/lifegame/index.html",
+		"/Users/zenahirsch/Documents/Projects/lifegame/lifegame.js",
+		"/Users/zenahirsch/Documents/Projects/sudoku.html",
+		"/Users/zenahirsch/Documents/Projects/sudoku/example.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console.log",
+			"mysql",
+			"agreement",
+			"');\n",
+			"<strong>",
+			"undefinedValues",
+			"setDefinit",
+			"sudoku.js:148",
+			"sudoku.js:158",
+			"sudoku.js:139",
+			"x",
+			"printPuzzle",
+			"printPuzz",
+			"checkPuzzle",
+			"existsI",
+			"Failed",
+			"form_token",
+			"input",
+			"margin-bottom",
+			"strong",
+			"agreement",
+			"cla",
+			"modworld",
+			"console.log",
+			"callback",
+			"_modifyCase",
+			"cases",
+			"_buildESCallback",
+			"match",
+			"could not get issue",
+			"updateProgress",
+			"err",
+			"updateProgress",
+			"updatePro",
+			"console.log",
+			"console.",
+			"getCases",
+			"getMonths",
+			"getWeeks",
+			"percentages",
+			"console.log",
+			"percentages",
+			"getPercentages",
+			"filter-type",
+			"getDays",
+			"populateTable",
+			"calculatePercentages",
+			"request",
+			"getCases",
+			"populateTable",
+			"assignAllBottomTotal",
+			"getCases",
+			".html()",
+			"getWeeks(",
+			"console.log",
+			"getCases",
+			"sessionStorage",
+			"localStorage",
+			"label",
+			"labelCell",
+			"getTotalCases",
+			"labelCell",
+			"label",
+			"\"label\"",
+			"searchLab",
+			"sessionStorage",
+			"getTime",
+			"getCases",
+			", label",
+			"label",
+			"console.log",
+			"getCases",
+			"start_date",
+			"end_date",
+			"console.log",
+			"console.lg",
+			"console.log",
+			"collapse",
+			"body",
+			"\"body\"",
+			"body"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"u",
+			"printBlock",
+			"checkBlock",
+			"FAILED",
+			"localStorage",
+			"sessionStorage",
+			"localStorage"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "demo.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 881,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "jquery.waffler.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "waffler.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "waffler.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"agreements.ph",
+				"views_v6/modworldv6/cla/view.modworldv6.cla.agreements.phtml"
+			],
+			[
+				"claagreement",
+				"objects_v6/cla/object.cla.agreement.php"
+			],
+			[
+				"controllermodworldcla",
+				"controllers_v6/modworldv6/controller.modworldv6.cla.php"
+			],
+			[
+				"viewagreements",
+				"views_v6/modworldv6/cla/view.modworldv6.cla.agreements.phtml"
+			],
+			[
+				"claagreem",
+				"definitions/cla/definition.cla.agreement.php"
+			],
+			[
+				"submission",
+				"definitions/cla/definition.cla.submission.php"
+			],
+			[
+				"dev.ini",
+				"config/files/dev.ini"
+			],
+			[
+				"viewdevelopersub",
+				"views_v6/developer/cla/view.developer.cla.submissions.phtml"
+			],
+			[
+				"viewmodworldagreement",
+				"views_v6/modworldv6/cla/view.modworldv6.cla.agreement.phtml"
+			],
+			[
+				"viewmodworldagreements",
+				"views_v6/modworldv6/cla/view.modworldv6.cla.agreements.phtml"
+			],
+			[
+				"definitionagreem",
+				"definitions/cla/definition.cla.agreement.php"
+			],
+			[
+				"baseapplication",
+				"base/hoodahoop.base.application.php"
+			],
+			[
+				"controllerdeveloper",
+				"controllers_v6/developer/controller.developer.cla.php"
+			],
+			[
+				"viewsubmissions",
+				"views_v6/developer/cla/view.developer.cla.submissions.phtml"
+			],
+			[
+				"objectsubmission",
+				"objects_v6/cla/object.cla.submission.php"
+			],
+			[
+				"controllermodworld",
+				"controllers_v6/modworldv6/controller.modworldv6.cla.php"
+			],
+			[
+				"objectsubmiss",
+				"objects_v6/cla/object.cla.submission.php"
+			],
+			[
+				"controllerdevelopercla",
+				"controllers_v6/developer/controller.developer.cla.php"
+			],
+			[
+				"developer.php",
+				"routes/developer.php"
+			],
+			[
+				"viewsubmission",
+				"views_v6/developer/cla/view.developer.cla.submissions.phtml"
+			],
+			[
+				"controllercla",
+				"controllers_v6/modworldv6/controller.modworldv6.cla.php"
+			],
+			[
+				"controlleruser",
+				"controllers_v6/controller.user.php"
+			],
+			[
+				"viewmodworldclaagreement",
+				"views_v6/modworldv6/cla/view.modworldv6.cla.agreement.phtml"
+			],
+			[
+				"definitionagreement",
+				"definitions/cla/definition.cla.agreement.php"
+			],
+			[
+				"objectcla",
+				"objects_v6/cla/object.cla.agreement.php"
+			],
+			[
+				"viewmodworldagree",
+				"views_v6/modworldv6/cla/view.modworldv6.cla.agreements.phtml"
+			],
+			[
+				"viewdevelopercla",
+				"views_v6/developer/cla/view.developer.cla.agreement.phtml"
+			],
+			[
+				"devel",
+				"routes/developer.php"
+			],
+			[
+				"definitionuser",
+				"definitions/definition.user.php"
+			],
+			[
+				"viewdeveloperappform",
+				"views_v6/developer/app/view.developer.app.form.phtml"
+			],
+			[
+				"developerapi3start",
+				"views_v6/developer/api3/view.developer.api3.start.phtml"
+			],
+			[
+				"viewdeveloperapi3spec",
+				"views_v6/developer/api3/view.developer.api3.spec.phtml"
+			],
+			[
+				"main.php",
+				"routes/main.php"
+			],
+			[
+				".list.p",
+				"views_v6/modworldv6/triggers/view.modworldv6.triggers.list.phtml"
+			],
+			[
+				".list.pht",
+				"views_v6/modworldv6/users/view.modworldv6.users.list.phtml"
+			],
+			[
+				"cla.",
+				"views_v6/modworldv6/cla/view.modworldv6.cla.main.phtml"
+			],
+			[
+				"main",
+				"routes/main.php"
+			],
+			[
+				"v6",
+				"tests/routes/v6.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Projects/elevator-simulator/elevator-simulator.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
