@@ -2,7 +2,7 @@
 
 ## Demo
 
-You can see a live demo of this plugin [here](http://poblanoicecube.com/waffler-demo).
+You can see a live demo of this plugin [here](http://poblanoicecube.com/waffler-demo/demo.html).
 
 ## Example Usage
 
