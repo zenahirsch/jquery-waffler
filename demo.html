@@ -4,12 +4,14 @@
         <meta charset="utf-8">
         <title>jQuery Waffler Plugin Demo</title>
         <link rel="stylesheet" type="text/css" href="waffler.css" />
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script src="jquery.waffler.js"></script>
     </head>
     <body>
         <h1>jQuery Waffler Demo</h1>
 
         <div class="col left">
-            <ul id="waffle" class="waffle-list">
+            <ul class="waffle">
                 <li class="red">Item 1</li>
                 <li class="orange">Item 2</li>
                 <li class="yellow">Item 3</li>
@@ -19,8 +21,17 @@
             </ul>
         </div>
 
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-        <script src="jquery.waffler.js"></script>
+        <div class="col right">
+            <ul class="waffle">
+                <li class="red">Item 1</li>
+                <li class="orange">Item 2</li>
+                <li class="yellow">Item 3</li>
+                <li class="green">Item 4</li>
+                <li class="blue">Item 5</li>
+                <li class="purple">Item 6</li>
+            </ul>
+        </div>
+
         <script>
             $(document).ready(function () {
                 $(document).waffler();

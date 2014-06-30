@@ -43,27 +43,34 @@ body {
     background-color: purple;
 }
 
-
-
-.waffle-list {
+.waffle {
     list-style: none outside none;
     padding: 1em;
     position: relative;
-    width: 30em;
 }
 
-.waffle-list li {
+.waffle li {
     cursor: default;
     padding: 1em;
     margin-bottom: 1em;
-    -webkit-transition: all 0.5s ease-in-out;
-    -moz-transition: all 0.5s ease-in-out;
-    -o-transition: all 0.5s ease-in-out;
-    -ms-transition: all 0.5s ease-in-out;
-    transition: all 0.5s ease-in-out;
+    position: relative;
+    -webkit-transition: opacity 0.35s ease-in-out;
+    -moz-transition: opacity 0.35s ease-in-out;
+    -o-transition: opacity 0.35s ease-in-out;
+    -ms-transition: opacity 0.35s ease-in-out;
+    transition: opacity 0.35s ease-in-out;
 }
 
-.waffle-list li:hover {
-    cursor: pointer;
+.waffle li:hover {
+    cursor: move;
+}
+
+.transparent {
+    opacity: 0.5;
+}
+
+.moving {
+    opacity: 1;
+    top: 10px;
 }
 
