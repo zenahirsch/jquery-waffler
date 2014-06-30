@@ -72,5 +72,6 @@ body {
 .moving {
     opacity: 1;
     top: 10px;
+    left: 0px;
 }
 

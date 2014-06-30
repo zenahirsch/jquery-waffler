@@ -24,12 +24,14 @@
 
             yPos < (hoverItemHeight / 2) ? overTop = true : overBottom = true;
 
-            if (dragging && overTop) {
-                $item.insertBefore($hoverItem);
-            }
+            if ($item && $hoverItem.parent().get(0) === $item.parent().get(0)) {
+                if (dragging && overTop) {
+                    $item.insertBefore($hoverItem);
+                }
 
-            if (dragging && overBottom) {
-                $item.insertAfter($hoverItem);
+                if (dragging && overBottom) {
+                    $item.insertAfter($hoverItem);
+                }
             }
         });
 
