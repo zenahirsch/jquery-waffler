@@ -8,6 +8,8 @@ You can see a live demo of this plugin [here](http://poblanoicecube.com/waffler-
 
 ### HTML
 
+Add the `.waffle` class to any `ul` or `ol` that you'd like to turn into a waffler.
+
 ```html
 <ul class="waffle">
     <li class="red">Item 1</li>
